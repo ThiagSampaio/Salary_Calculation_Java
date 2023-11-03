@@ -8,4 +8,19 @@ Program to read data from a worker with N contracts (N provided by the user). Th
 
 
 
-[Resposta](https://github.com/ThiagSampaio/Java/blob/main/10-Comportamento%20mem%C3%B3ria%2Carrays%2Clistas/array/Exemplo_1/src/application/Program.java)
+## Implementation
+
+[WorkerLevel](https://github.com/ThiagSampaio/Salary_Calculation_Java/blob/main/Salary_Calculation/src/entities/WorkerLevel.java)
+
+[Department](https://github.com/ThiagSampaio/Salary_Calculation_Java/blob/main/Salary_Calculation/src/entities/Department.java)
+
+[HourContract](https://github.com/ThiagSampaio/Salary_Calculation_Java/blob/main/Salary_Calculation/src/entities/HourContract.java)
+
+[Worker](https://github.com/ThiagSampaio/Salary_Calculation_Java/blob/main/Salary_Calculation/src/entities/Worker.java)
+
+[Main](https://github.com/ThiagSampaio/Salary_Calculation_Java/blob/main/Salary_Calculation/src/applicaltion/Program.java)
+
+## Result
+
+<img src="img/1.png">
+
