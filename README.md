@@ -4,6 +4,8 @@ Program to read data from a worker with N contracts (N provided by the user). Th
 
 ## UML
 
-<img src="img/1.png">
+<img src="img/2.png">
+
+
 
 [Resposta](https://github.com/ThiagSampaio/Java/blob/main/10-Comportamento%20mem%C3%B3ria%2Carrays%2Clistas/array/Exemplo_1/src/application/Program.java)
